@@ -1,0 +1,27 @@
+.playlistDetails {
+    margin-bottom: 20px;
+}
+
+.contentMelodii {
+    transition: max-height 0.3s ease-out;
+}
+
+.playlistDetails[open] .contentMelodii {
+    max-height: 1000px;
+}
+#melodii{
+    width: 50%;
+}
+#playlistButton{
+    margin-top:10px; 
+    width:15%
+}
+@media only screen and (max-width: 600px) {
+    #melodii{
+        width:100%;
+    }
+
+    #playlistButton{
+        width:30%;
+    }
+}

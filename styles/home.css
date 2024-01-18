@@ -1,0 +1,69 @@
+body {
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+#divider{
+    border: 1px solid black;
+    max-width: 60%;
+}
+#newsfeed {
+    display: flex;
+    flex-direction: column;
+    max-width: 80%; 
+    margin: auto;
+}
+#title {
+    text-align: center;
+    width: 100%;
+    margin-top: 5%;
+}
+#music {
+    display: flex;
+    max-height: 200px;
+    border: 1px solid #ddd; 
+}
+
+#pictureMusic {
+    flex: 1;
+    max-width:20%;
+    max-height: 200px;
+}
+
+#pictureMusic img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+}
+
+#songDetails,
+#songControls {
+    padding: 10px;
+}
+
+#songDetails {
+    flex: 1;
+    align-items: center;
+    font-size:20px; 
+    font-weight: bold;
+}
+
+#songControls {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+@media only screen and (max-width: 600px) {
+    #songDetails{
+        font-size:16px;
+        font-weight:normal;
+    }
+}
+@media only screen and (max-width: 900px) {
+    #songDetails{
+        font-size:18px;
+        font-weight:normal;
+    }
+}

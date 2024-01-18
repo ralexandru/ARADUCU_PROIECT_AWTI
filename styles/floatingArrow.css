@@ -1,0 +1,29 @@
+#floating-button {
+    position: fixed;
+    opacity: 0.8;
+    left: 10px;
+    bottom: 10px;
+    background-color: #727272;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  }
+
+  #floating-button:hover {
+    background-color: #08294c;
+  }
+
+  #arrow {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #000000;
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+  }

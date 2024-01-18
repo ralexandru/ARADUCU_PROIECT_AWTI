@@ -1,0 +1,197 @@
+﻿WEBVTT
+
+00:00:00.700 --> 00:00:06.342
+Aceasta este o subtitrare pentru o melodie
+
+00:00:06.342 --> 00:00:08.961
+insa, din fericire,
+
+00:00:08.961 --> 00:00:13.641
+melodiile lui Chopin nu au nevoie de asa ceva. :)
+
+00:00:13.641 --> 00:00:15.354
+and standards are the main way we get there.
+
+00:00:15.354 --> 00:00:17.454
+As a developer, that is the dream come true
+
+00:00:17.454 --> 00:00:19.324
+you just write your site once, and,
+
+00:00:19.324 --> 00:00:22.530
+and no matter where it's being shown, 
+
+00:00:22.530 --> 00:00:26.318
+in what browser, on what platform, it's running the same way, in the same code. 
+
+00:00:26.318 --> 00:00:28.587
+if we behave differently than other browsers, 
+
+00:00:28.587 --> 00:00:32.930
+or the standards aren't written in a way that leads to interoperable implementations,
+
+00:00:32.930 --> 00:00:35.018
+then developers just end up wasting their time. 
+
+00:00:35.018 --> 00:00:37.407
+rather than building cool things. 
+
+00:00:37.407 --> 00:00:39.097
+that we'll enjoy.
+
+00:00:39.097 --> 00:00:43.965
+Platform Preview really gave us an opportunity to get
+
+00:00:43.965 --> 00:00:47.467
+early bits into developers hands.
+
+00:00:47.467 --> 00:00:50.367
+In previous releases we would do the best we could
+
+00:00:50.367 --> 00:00:53.249
+from an engineering standpoint, and then we would ship a beta, 
+
+00:00:53.249 --> 00:00:55.921
+and that would be the first time that really the public could
+
+00:00:55.921 --> 00:00:57.727
+get their hands on the code 
+
+00:00:57.727 --> 00:01:00.537
+and run the websites and find the problems
+
+00:01:00.537 --> 00:01:02.737
+and get feedback to us.
+
+00:01:02.737 --> 00:01:07.072
+So we realized we needed to get, we needed to get that feedback earlier, 
+
+00:01:07.072 --> 00:01:09.282
+and we really wanted to put the code into developer's hands sooner.
+
+00:01:09.282 --> 00:01:15.178
+It's difficult when all the specs are moving, including HTML5 is a moving spec right now, 
+
+00:01:15.178 --> 00:01:16.858
+CSS3 is a moving spec right now,
+
+00:01:16.858 --> 00:01:19.923
+and we are coding, and we're trying to ship a product.
+
+00:01:19.923 --> 00:01:22.649
+So, it's difficult to hit those moving targets.
+
+00:01:22.649 --> 00:01:26.309
+We have several people who were on the working groups.
+
+00:01:26.309 --> 00:01:29.399
+This means weekly conference calls,
+
+00:01:29.399 --> 00:01:32.995
+ face to face meetings, all over the world. 
+
+00:01:32.995 --> 00:01:35.112
+The W3c does a technical plenary.
+
+00:01:35.112 --> 00:01:37.859
+in the fall that they move in different cities each year
+
+00:01:37.859 --> 00:01:41.219
+and it's really commiting the time and resources 
+
+00:01:41.219 --> 00:01:44.703
+and engaging the working groups and putting in the effort
+
+00:01:44.703 --> 00:01:50.526
+to make sure the standards evolve at a good pace, and with good quality
+
+00:01:50.526 --> 00:01:52.942
+It's a meeting of incredibly smart people who have 
+
+00:01:52.942 --> 00:01:56.852
+very strong ideas about the web and are very passionate about those ideas
+
+00:01:56.852 --> 00:01:58.852
+and, and it can get heated!
+
+00:01:58.852 --> 00:02:02.754
+but ultimately we recognize that we're part of a standards body and
+
+00:02:02.754 --> 00:02:04.752
+we're trying to make the Internet better for everyone.
+
+00:02:04.752 --> 00:02:08.837
+ So we usually can come to some kind of a rational decision. 
+
+00:02:08.837 --> 00:02:13.387
+Typically what we do at Microsoft, to get feedback to the W3c is
+
+00:02:13.387 --> 00:02:14.885
+is submit test cases.
+
+00:02:14.885 --> 00:02:19.315
+ So we look at the W3c spec, for CSS3.0 for example, 
+
+00:02:19.315 --> 00:02:21.497
+see what the paragraphs themselves say, 
+
+00:02:21.497 --> 00:02:27.327
+and then write a test case to verify that that paragraph is actually implementable in the browser.
+
+00:02:27.327 --> 00:02:29.487
+We'll constantly be listening for feedback
+
+00:02:29.487 --> 00:02:35.118
+we're looking for developers and customers to
+
+00:02:35.118 --> 00:02:38.611
+tell us places where we're not behaving the same as other browsers, 
+
+00:02:38.611 --> 00:02:43.975
+and where it is affecting their ability to have the same code work across all browsers 
+
+00:02:43.975 --> 00:02:46.539
+We want to get that feedback as early as possible so
+
+00:02:46.539 --> 00:02:49.302
+that we can make those changes and make those
+
+00:02:49.302 --> 00:02:53.117
+improvements for the final release of IE9.
+
+00:02:53.117 --> 00:02:57.766
+I think as a web developer, I would be really excited 
+
+00:02:57.766 --> 00:02:59.181
+for this release,
+
+00:02:59.181 --> 00:03:01.659
+and principly because I see the progress.
+
+00:03:01.659 --> 00:03:04.829
+I've seen the progress in the Platform Previews and I know that this 
+
+00:03:04.829 --> 00:03:07.939
+browser is adhering to the standards,
+
+00:03:07.939 --> 00:03:09.802
+and that really gets me excited!
+
+00:03:09.802 --> 00:03:12.989
+Y'know, I've worked on Internet Explorer for six years now, 
+
+00:03:12.989 --> 00:03:14.819
+it's been my entire time at Microsoft, 
+
+00:03:14.819 --> 00:03:19.221
+and every year on the browser it's gotten more and more interesting
+
+00:03:19.221 --> 00:03:24.189
+it's just exciting to see the browsers evolving and innovating 
+
+00:03:24.189 --> 00:03:25.589
+just get better and better
+
+00:03:25.589 --> 00:03:36.065
+every year. 
+

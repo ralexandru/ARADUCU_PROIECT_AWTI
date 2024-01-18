@@ -1,0 +1,23 @@
+    details summary::-webkit-details-marker {
+        display: none;
+      }
+  
+      details summary {
+        background-color: #007BFF;
+        color: #fff;
+        padding: 5px 10px;
+        cursor: pointer;
+        border: none;
+        border-radius: 5px;
+        outline: none;
+      }
+  
+      details summary:hover {
+        background-color: #0056b3;
+      }
+  
+      details div {
+        margin-top: 0px;
+        padding: 0px;
+        border-radius: 5px;
+      }
